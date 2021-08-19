@@ -19,4 +19,4 @@ Statisticians have spent decades creating the theoretical foundation for interpr
 Personally, I possess stronger intuition for software than I do for statistics. I am comfortable with aggregating data from a variety of sources, procesing it, and communicating my findings. However, my inferential abilities are certainly no match for someone who is mathematically inclined.     
 
 ---
-Silver, N. (2015). The Signal and the Noise: Why So Many Predictions Fail-but Some Don't (p. 9). Penguin Books.
+Silver, N. (2015). _The Signal and the Noise: Why So Many Predictions Fail-but Some Don't_ (p. 9). Penguin Books.
