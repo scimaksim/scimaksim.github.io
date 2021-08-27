@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](/images/ED608648-C34E-4C46-A7E9-B71791F52BEC.jpg width="100")
+![](/images/ED608648-C34E-4C46-A7E9-B71791F52BEC.jpg)
 I was raised in Uzbekistan and Kyrgyzstan, two former Republics of the Soviet Union. As a consequence of job scarcity and rampant inflation, which peaked shortly after my birth, my parents sought a better life in America. We immigrated to the United States in 2002. 
 
 <p align="center"><iframe title="Inflation, GDP deflator (annual %) - Uzbekistan, Kyrgyz Republic, United States, 1989-2020" src="https://data.worldbank.org/share/widget?contextual=default&end=2020&indicators=NY.GDP.DEFL.KD.ZG&locations=UZ-KG-US&start=1989" width='650' height='433' frameBorder='1' scrolling="yes" ></iframe></p>
