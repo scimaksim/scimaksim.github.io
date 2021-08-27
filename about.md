@@ -13,4 +13,4 @@ I had planned to pursue a career in science but, alas, my talents in mathematics
 
 ### Contact me
 
-You can reach me via e-mail at [mvnikifo@ncsu.edu](mailto:mvnikifo@ncsu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/feed/). 
+You can reach me via e-mail at [mvnikifo@ncsu.edu](mailto:mvnikifo@ncsu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/mnikiforov/). 
