@@ -17,7 +17,7 @@ rmarkdown::render("2021-9-12-Second-Blog-Post.Rmd",
           )
 ```
 
-## Comparing R to other programming languages
+## Comparing R and SAS
 
 _What are your thoughts on R vs. whatever other software you've used? What functionality do you like about R? What parts do you miss about your other language? Do you consider R a difficult language to learn?_
 
