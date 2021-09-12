@@ -1,0 +1,35 @@
+---
+title: "Second Blog Post"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.path = "../images/")
+```
+
+```{r render, echo=FALSE, eval=FALSE}
+rmarkdown::render("2021-9-12-Second-Blog-Post.Rmd",
+          output_format = "github_document",
+          output_dir = "../_posts/",
+          output_options = list(
+            html_preview = FALSE
+            )
+          )
+```
+
+## Comparing R to other programming languages
+
+_Everyone in this course had some programming experience coming in (due to the prerequisites). What are your thoughts on R vs whatever other software you've used?  What functionality do you like about R?  What parts do you miss about your other language?  Do you consider R a difficult language to learn? (If you knew R prior to the course, describe your experience when first learning it.)_
+
+Placeholder
+
+
+## Example R Markdown output
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(iris)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
