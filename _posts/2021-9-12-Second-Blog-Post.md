@@ -1,4 +1,4 @@
-Second Blog Post
+Programming Background
 ================
 
 ## Comparing R to other programming languages
@@ -14,9 +14,8 @@ Placeholder
 
 ## Example R Markdown output
 
-You can also embed plots, for example:
+``` r
+plot(iris)
+```
 
 ![](../images/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
