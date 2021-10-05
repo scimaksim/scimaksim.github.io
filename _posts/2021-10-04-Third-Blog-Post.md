@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Project reflection - working with data from NASA
+title: Third blog post
 ---
 
-# NASA Exoplanet Archive - Project Vignette
+# Project reflection - working with data from NASA
 
 Wow, what a week. After spending the last two weekends (and every weekday evening) working with R Markdown, I am finally prepared to submit my [exoplanet vignette](https://scimaksim.github.io/nasa-api-vignette/). 
 
