@@ -3,11 +3,12 @@ layout: post
 title: Project reflection - working with data from NASA
 ---
 
-# [NASA Exoplanet Archive - Project Vignette](https://scimaksim.github.io/nasa-api-vignette/)
+# NASA Exoplanet Archive - Project Vignette
 
 Wow, what a week. After spending the last two weekends (and every weekday evening) working with R Markdown, I am finally prepared to submit my [exoplanet vignette](https://scimaksim.github.io/nasa-api-vignette/). 
 
-The R code in this project queries the NASA Exoplanet Archive database and programmatically retrieves a [myriad of data](https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html#addtldefault) on known exoplanets. According to the API user guide, "the archive is gradually transitioning its data tables to the new VO-compliant Table Access Protocol (TAP) service". Consequently, the primary function in the vignette (`annualExoDiscoveries()`) appends queries to the TAP base service URL (https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=).
+The R code in this project queries the NASA Exoplanet Archive database and programmatically retrieves a [myriad of data](https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html#addtldefault) on known exoplanets. According to the API user guide, "the archive is gradually transitioning its data tables to the new VO-compliant Table Access Protocol (TAP) service". Consequently, the primary function in th
+=e vignette (`annualExoDiscoveries()`) appends queries to the TAP base service URL (https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=).
 
 After making basic API calls in assignment four, querying the NASA Exoplanet Archive was a matter of reusing R's `httr` and `jsonlite` packages, grabbing raw content using the `GET()` function, and converting it to a data frame using the functions `rawToChar()` and `fromJSON()`. Then came the difficult part - figuring out what to do with the roughly 4,500 rows of data. 
 
